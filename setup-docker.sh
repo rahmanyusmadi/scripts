@@ -1,4 +1,5 @@
-# https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository
+# REFERENCE: https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-repository
+# QUICKRUN:  curl https://raw.githubusercontent.com/yusmadi/scripts/master/setup-docker.sh | bash
 
 sudo apt-get update
 sudo apt-get install \
